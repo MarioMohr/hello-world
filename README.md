@@ -1,21 +1,20 @@
-# hello-world
 This is my first repository.
 
-# This is the Title
-## This is also a title
-### and this too
+# This is the Title <h1>
+## This is also a title <h2>
+### and this too <h3>
 
-This is normal text.
+This is normal text. <p>
 
-**This text is bold.**
+**This text is bold.** <b>
 
-_This text is italic._
+_This text is italic._ <i>
+ 
+    code xyz <code>
 
-    code xyz
+[] Checkbox <input type="checkbox">
 
-[ ] Checkbox
+* listing <ul>
 
-* listing
+1. numeration <ol>
 
-1. numeration
-2. numeration
