@@ -14,5 +14,5 @@ _This text is italic._ \_ = \<i>
 
 * listing \* = \<ul>
 
-1. numeration \1. = \<ol>
+1. numeration 1. = \<ol>
 
