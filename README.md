@@ -13,3 +13,9 @@ _This text is italic._
 
     code xyz
 
+[ ] Checkbox
+
+* listing
+
+1. numeration
+2. numeration
