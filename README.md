@@ -1,20 +1,20 @@
 This is my first repository.
 
-# This is the Title <h1>
-## This is also a title <h2>
-### and this too <h3>
+# This is the Title \<h1>
+## This is also a title \<h2>
+### and this too \<h3>
 
-This is normal text. <p>
+This is normal text. \<p>
 
-**This text is bold.** <b>
+**This text is bold.** \<b>
 
-_This text is italic._ <i>
+_This text is italic._ \<i>
  
     code xyz <code>
 
-[] Checkbox <input type="checkbox">
+[] Checkbox \<input type="checkbox">
 
-* listing <ul>
+* listing \<ul>
 
-1. numeration <ol>
+1. numeration \<ol>
 
