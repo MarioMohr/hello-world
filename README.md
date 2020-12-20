@@ -1,4 +1,6 @@
 This is my first repository.
+I did this to get a generally flow with Git
+and to learn some Markdown.
 
 # This is the Title \# = \<h1>
 ## This is also a title \#\# = \<h2>
